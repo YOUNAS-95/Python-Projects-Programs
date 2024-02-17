@@ -1,0 +1,2 @@
+Younas="  "
+print(Younas.isspace())

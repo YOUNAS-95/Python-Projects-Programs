@@ -1,0 +1,5 @@
+user=input("Enter Your Name:")
+print("This is your Name:",user)
+X=int(input("Enter First Number:"))
+Y=input("Enter second Number:")
+print(int(Y)+X)
